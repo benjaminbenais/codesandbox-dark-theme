@@ -1,0 +1,28 @@
+{
+  "name": "codesandbox-dark",
+  "displayName": "CodeSandbox Dark",
+  "description": "Official CodeSandbox theme",
+  "version": "0.0.1",
+  "author": "Benjamin Benais",
+  "repository": {
+    "type": "git",
+    "url": "https://..."
+  },
+  "publisher": "benjaminbenais",
+  "icon": "./logo.png",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CodeSandbox Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CodeSandbox Dark-color-theme.json"
+      }
+    ]
+  }
+}
