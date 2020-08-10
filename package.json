@@ -1,7 +1,7 @@
 {
   "name": "codesandbox-dark",
   "displayName": "CodeSandbox Dark",
-  "description": "Official CodeSandbox theme",
+  "description": "CodeSandbox theme for VS Code",
   "version": "0.0.1",
   "author": "Benjamin Benais",
   "repository": {
