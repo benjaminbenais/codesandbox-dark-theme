@@ -9,7 +9,7 @@
     "url": "https://github.com/benjaminbenais/codesandbox-dark-theme"
   },
   "publisher": "benjaminbenais",
-  "icon": "./logo.png",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.47.0"
   },
