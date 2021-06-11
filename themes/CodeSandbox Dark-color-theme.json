@@ -37,7 +37,7 @@
     "editorGutter.background": "#151515",
     "editorHoverWidget.background": "#151515",
     "editorHoverWidget.border": "#242424",
-    "editorIndentGuide.background": "#151515",
+    "editorIndentGuide.background": "#2e2e2e",
     "editorLineNumber.activeForeground": "#e6e6e6",
     "editorLineNumber.foreground": "#757575",
     "editorLink.activeForeground": "#999999",
@@ -123,7 +123,7 @@
     "titleBar.activeForeground": "#ffffff",
     "titleBar.border": "#242424",
     "titleBar.inactiveBackground": "#151515",
-    "titleBar.inactiveForeground": "#999999",
+    "titleBar.inactiveForeground": "#999999"
   },
   "tokenColors": [
     {

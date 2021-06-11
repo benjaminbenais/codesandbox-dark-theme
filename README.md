@@ -1,21 +1,17 @@
 # CodeSandbox Dark
 
-## Theme used by [CodeSandbox](https://codesandbox.io).
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/benjaminbenais.codesandbox-dark.svg)](https://marketplace.visualstudio.com/items?itemName=BenjaminBenais.codesandbox-dark)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/benjaminbenais.codesandbox-dark.svg)](https://marketplace.visualstudio.com/items?itemName=BenjaminBenais.codesandbox-dark)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-star/benjaminbenais.codesandbox-dark.svg)](https://marketplace.visualstudio.com/items?itemName=BenjaminBenais.codesandbox-dark)
 
-#### Screenshot
-
-Javascript
+The default theme used on [codesandbox.io](https://codesandbox.io)
 
 ![screenshot-react](./screenshots/js.png)
 
-React
-
 ![screenshot-react](./screenshots/react.png)
-
-HTML
 
 ![screenshot-react](./screenshots/html.png)
 
-CSS
-
 ![screenshot-react](./screenshots/css.png)
+
+All credits goes to [codesandbox.io](https://codesandbox.io)
